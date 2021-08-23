@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-toddlers-dress.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-01-05T16:28:41-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4904460124223</id>
+    <published>2021-01-05T16:28:41-08:00</published>
+    <updated>2021-01-05T16:28:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-77a"/>
+    <title>Candide-77a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-77A_ROSEGOLD.jpg?v=1609892748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers open toe  crisscross ankle strap platform sandal with espadrille trim. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck, Blush Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 White PU, Rose Gold PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-12117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / ROSE GOLD</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-11112DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887521919039</id>
+    <published>2020-12-29T11:15:36-08:00</published>
+    <updated>2020-12-29T11:15:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cab-36a"/>
+    <title>Cab-36a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CAB-36A_BLUSH.jpg?v=1608238594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers slides with faux fur and rhinestones on upper. Elastic back strap.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Multi, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18127DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4444884238399</id>
+    <published>2019-12-31T11:47:14-08:00</published>
+    <updated>2019-12-31T11:47:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-1a"/>
+    <title>Candide-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-1A_WHITE.jpg?v=1609812362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddlers open toe ankle strap platform sandal with espadrille trim.<span> Velcro</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span>💜 Leopard Suede</span></p>
+<p data-mce-fragment="1"><span>💜 White PU, Nude PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / LEOPARD</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-13122DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / NUDE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-11106DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

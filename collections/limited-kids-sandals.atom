@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-kids-sandals.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-01-04T18:15:37-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4903568506943</id>
+    <published>2021-01-04T18:15:37-08:00</published>
+    <updated>2021-01-04T18:15:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-1k"/>
+    <title>Candide-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-1K_BLACK.jpg?v=1618522759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kids open toe ankle strap platform sandal with espadrille trim.<span> Buckle</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1.7 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 1 inch</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903568506943</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>CANDIDE-1K-04-12100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887541153855</id>
+    <published>2020-12-29T11:15:36-08:00</published>
+    <updated>2020-12-29T11:15:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cab-36k"/>
+    <title>Cab-36k</title>
+    <s:type>Slide</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CAB-36K_MULTI.jpg?v=1609812066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Slide<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids slides with faux fur and rhinestones on upper. <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Multi, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887541153855</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-36K-04-18100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887541153855</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-36K-04-18117E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887541153855</id>
+      <title>E / MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-36K-04-18127E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887541153855</id>
+      <title>E / WHITE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-36K-04-18105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886247407679</id>
+    <published>2020-12-29T11:15:27-08:00</published>
+    <updated>2020-12-29T11:15:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/ben-25k"/>
+    <title>Ben-25k</title>
+    <s:type>Slippers</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BEN-25K_LEOPARD.jpg?v=1609808878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Slippers<br>
+        <strong>Price: </strong>
+            5.25 - 6.75
+            <a href="https://topguyshoes.com/products/ben-25k">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids Crisscross faux fur slippers</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Light Taupe, Leopard, Mauve, Mocha</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong><span data-mce-fragment="1">Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Mocha</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886247407679</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BEN-25-06-18100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886247407679</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>BEN-25-06-18108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886247407679</id>
+      <title>E / LIGHT TAUPE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BEN-25-06-18108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886247407679</id>
+      <title>E / LEOPARD</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BEN-25-06-18122E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886247407679</id>
+      <title>E / MULTI</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>BEN-25-06-18127E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886247407679</id>
+      <title>E / MOCHA</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BEN-25-06-18102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4885943320639</id>
+    <published>2020-12-29T11:15:19-08:00</published>
+    <updated>2020-12-29T11:15:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/amara-26k"/>
+    <title>Amara-26k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/AMARA-26K_BLUSH.jpg?v=1608147445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids sandals with cork bottom</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck, Blush Nubuck, Mocha Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜Ros</span>e Gold Glitter, White Glitter</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> </span>White PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Mocha</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / BLUSH</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-12117E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / MOCHA</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-12135E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / ROSE GOLD/ GLT</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-14112E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / TAN</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-12102E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / WHITE/ GLT</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-14105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885943320639</id>
+      <title>E3 / WHITE PU</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>AMARA-26K-04-11105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-kids-boots.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-01-04T16:25:11-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4903493795903</id>
+    <published>2021-01-04T16:25:11-08:00</published>
+    <updated>2021-01-04T16:25:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/atlas-1k"/>
+    <title>Atlas-1k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ATLAS-1K_BLACK.jpg?v=1609805864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids r<span data-mce-fragment="1">hinestone studded boots</span><span data-mce-fragment="1"> </span>with faux fur lining.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Mauve, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:<span data-mce-fragment="1"> </span></strong>Suede </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / GREY</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13104E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / MAUVE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13129E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4885823193151</id>
+    <published>2020-12-29T11:15:18-08:00</published>
+    <updated>2020-12-29T11:15:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/alida-32k"/>
+    <title>Alida-32k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ALIDA-32K_CHESTNUT.jpg?v=1608141418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids over the knee suede boots. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Suede, Wine <span data-mce-fragment="1">Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Chestnut</span> Suede, Taupe Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>1 inch<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / TAUPE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / WINE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13114E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / CHESTNUT</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13131E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

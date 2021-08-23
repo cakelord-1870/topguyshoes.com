@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-womens-flats.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-04-12T14:30:39-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4903491502143</id>
+    <published>2021-04-12T14:30:39-07:00</published>
+    <updated>2021-04-12T14:30:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/astrid-9"/>
+    <title>Astrid-9</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASTRID-9_BLACK.jpg?v=1611959712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies flat loafers</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan, Mauve, Ivory</p>
+<p data-mce-fragment="1"><span>💜 Black Croc, Tan Croc, White Croc</span><span mce-data-marked="1"></span></p>
+<p data-mce-fragment="1"><b>Material</b>: PU</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height</strong>: 0.5 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Ivory</s:tag>
+    <s:tag>Color_Mauve</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / Black</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / Tan</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / Mauve</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11129G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / Ivory</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11109G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / Black Croc</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11124G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / Tan Croc</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11158G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>G / White Croc</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11157G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / Black</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / Tan</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / Mauve</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11129B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / Ivory</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11109B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / Black Croc</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11124B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / Tan Croc</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11158B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903491502143</id>
+      <title>B / White Croc</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>ASTRID-9-05-11157B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886053584959</id>
+    <published>2021-04-12T14:26:23-07:00</published>
+    <updated>2021-04-12T14:26:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/astrid-1"/>
+    <title>Astrid-1</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASTRID-1IVORYcopy.jpg?v=1608152285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies loafers with gold bar across the vamp</p>
+<p><strong>Colorways</strong>:</p>
+<p>💜 Black, Nude, Ivory,  Tan, White, Black Croc</p>
+<p><strong>Material</strong><span>: PU</span></p>
+<p><span><strong>Heel Height</strong>: 0.5 inches</span></p>
+<p>If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Crocodile</s:tag>
+    <s:tag>Color_Ivory</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>B / BLACK CROCODILE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11124B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>B / IVORY</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11109B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>G / BLACK CROCODILE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11124G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>G / NUDE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>G / IVORY</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11109G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886053584959</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-1-05-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4903466926143</id>
+    <published>2021-01-04T15:32:21-08:00</published>
+    <updated>2021-01-04T15:32:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/astrid-33"/>
+    <title>Astrid-33</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASTRID-33_BLACK.jpg?v=1609803581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies loafers with gold ring on top strap</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan, Nude, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material</strong><span>: PU</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height</strong>: 0.5 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>G / Black</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>G / Tan</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>G / Nude</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>G / White</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>B / Black</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>B / Tan</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>B / Nude</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903466926143</id>
+      <title>B / White</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>ASTRID-33-05-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887478534207</id>
+    <published>2020-12-29T11:15:33-08:00</published>
+    <updated>2020-12-29T11:15:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bruce-16"/>
+    <title>Bruce-16</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRUCE-16_WHITE.jpg?v=1608234288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies classic ballet flat. Buckle strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span>💜 Nude Patent</span></p>
+<p data-mce-fragment="1"><span>💜 White PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-15106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-12100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>G / NUDE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-15106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-12102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887478534207</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1-05-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887466278975</id>
+    <published>2020-12-29T11:15:32-08:00</published>
+    <updated>2020-12-29T11:15:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bruce-1"/>
+    <title>Bruce-1</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRUCE-1_CHAMPAGNE.jpg?v=1608233255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies ballet flat embellished with glitter and jewels</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Champagne, Silver</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Glitter</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887466278975</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BRUCE-1-05-14100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887466278975</id>
+      <title>B / CHAMPAGNE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BRUCE-1-05-14111B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887466278975</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BRUCE-1-05-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887466278975</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BRUCE-1-05-14100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887466278975</id>
+      <title>G / CHAMPAGNE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BRUCE-1-05-14111G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887466278975</id>
+      <title>G / SILVER</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BRUCE-1-05-14110G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886169911359</id>
+    <published>2020-12-29T11:15:25-08:00</published>
+    <updated>2020-12-29T11:15:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bavel-92"/>
+    <title>Bavel-92</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BAVEL-92_BLACK.jpg?v=1608161199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Ladies flats with lace up bow tie and faux fur lining</span><span data-mce-fragment="1">.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan, Taupe</p>
+<p><strong data-mce-fragment="1">Material: </strong>Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Detail_Lace Up</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886169911359</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>BAVEL-92-06-13100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886169911359</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>BAVEL-92-06-13102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886169911359</id>
+      <title>B / TAUPE</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>BAVEL-92-06-13108B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886169911359</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>BAVEL-92-06-13100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886169911359</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>BAVEL-92-06-13102BG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886169911359</id>
+      <title>G / TAUPE</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>BAVEL-92-06-13108G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886150119487</id>
+    <published>2020-12-29T11:15:24-08:00</published>
+    <updated>2020-12-29T11:15:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bavel-8"/>
+    <title>Bavel-8</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BAVEL-8_BLACK.jpg?v=1608159710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Ladies flats with jewel embellishment across the vamp</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Tan PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886150119487</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BAVEL-8-05-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886150119487</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BAVEL-8-05-11102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886150119487</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BAVEL-8-05-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886150119487</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BAVEL-8-05-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886143991871</id>
+    <published>2020-12-29T11:15:23-08:00</published>
+    <updated>2020-12-29T11:15:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bavel-1"/>
+    <title>Bavel-1</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BAVEL-1_BLACK.jpg?v=1608159183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Ladies flats with metal bar across the vamp</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Tan Suede, Wine Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> </span>White PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-13102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>A / WHITE</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-11105A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>A / WINE</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-13114A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-13102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886143991871</id>
+      <title>B / WINE</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>BAVEL-1-05-13114B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

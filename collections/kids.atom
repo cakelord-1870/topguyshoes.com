@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/kids.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-07-22T15:33:44-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/6554850623551</id>
+    <published>2021-07-22T15:33:44-07:00</published>
+    <updated>2021-07-22T15:33:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/sperry-8k"/>
+    <title>Sperry-8k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SPERRY-8K_BROWN.jpg?v=1621440942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Boot</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / TAUPE</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / BROWN PU</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-11101E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / BLACK PU</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-11100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6609669947455</id>
+    <published>2021-07-22T15:31:44-07:00</published>
+    <updated>2021-07-22T15:31:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/tailor-2k"/>
+    <title>Tailor-2k</title>
+    <s:type>Sneaker</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TAILOR-2K_NAVY.jpg?v=1620411146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sneaker<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Canvas</s:tag>
+    <s:tag>Style_Sneaker</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / WHITE</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / CHEETAH</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28123E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28117E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / RED</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28115E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / NAVY</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28147E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / LIGHT GREY</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28168E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6609669947455</id>
+      <title>E / TIE DYE</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>TAILOR-2K-07-28126E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6550503358527</id>
+    <published>2021-07-22T09:52:42-07:00</published>
+    <updated>2021-07-22T09:52:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/zandra-38k"/>
+    <title>Zandra-38k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ZANDRA-38K_WHITE.jpg?v=1617302133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heel Height: 1.6 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11102E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / BROWN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11101E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / WHITE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/1690051510335</id>
+    <published>2021-07-01T15:14:55-07:00</published>
+    <updated>2021-07-01T15:14:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/delia-6k"/>
+    <title>Delia-6k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/DELIA-6K_CHAMPAGNE.jpg?v=1555458751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / CHAMPAGNE</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-14111E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / RED</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-12115E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / TAN</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-12102E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-14110E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / WHITE</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-11105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6586645348415</id>
+    <published>2021-04-07T12:20:48-07:00</published>
+    <updated>2021-04-07T12:20:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/tate-1k"/>
+    <title>Tate-1k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TATE-1K_WHITE.jpg?v=1617823235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heel Height: 1.7 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-12100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / TAN</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-12102E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / WHITE PU</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / RED</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-12115E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6550693904447</id>
+    <published>2021-03-08T15:34:57-08:00</published>
+    <updated>2021-03-08T15:34:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/la-6k"/>
+    <title>La-6k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/LA-6k_TAN.jpg?v=1615246498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kids Chelsea style bootie with elastic side panel and back pull strap.</span></p>
+<p data-mce-fragment="1">💜 Black, Tan, Brown<span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> </span>PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550693904447</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>LA-6K-02-11100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550693904447</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>LA-6K-02-11102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550693904447</id>
+      <title>E / BROWN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>LA-6K-02-11101E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6550501457983</id>
+    <published>2021-03-08T10:50:06-08:00</published>
+    <updated>2021-03-08T10:50:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gary-10k"/>
+    <title>Gary-10k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GARY-10K_TANcopy.jpg?v=1615229402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids ankle booties with accent buckle. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Nubuck</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong>  1.4 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550501457983</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>GARY-10K-02-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550501457983</id>
+      <title>E3 / TAN</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>GARY-10K-02-12102E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6547359563839</id>
+    <published>2021-03-05T10:14:08-08:00</published>
+    <updated>2021-03-05T10:14:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/sosanna-1k"/>
+    <title>Sosanna-1k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SOSANNA-1K_TAN.jpg?v=1614968048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Heel Height: 1.4 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-12100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / TAN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-12102E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / BROWN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-12101E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / WHITE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543908372543</id>
+    <published>2021-03-02T14:38:34-08:00</published>
+    <updated>2021-03-02T14:38:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/reba-1k"/>
+    <title>Reba-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/REBA-1K_BLUSH.jpg?v=1614724716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Studs</s:tag>
+    <s:tag>Material_Jelly</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543908372543</id>
+      <title>F / BLACK</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>REBA-1K-04-20100F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543908372543</id>
+      <title>F / NUDE</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>REBA-1K-04-20106F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543908372543</id>
+      <title>F / WHITE</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>REBA-1K-04-20105F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543908372543</id>
+      <title>F / RED</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>REBA-1K-04-20115F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543908372543</id>
+      <title>F / CLEAR</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>REBA-1K-04-20146F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543908372543</id>
+      <title>F / BLUSH</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>REBA-1K-04-20117F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543875899455</id>
+    <published>2021-03-02T13:43:56-08:00</published>
+    <updated>2021-03-02T13:43:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/plano-3k"/>
+    <title>Plano-3k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PLANO-3K_BLACKSU.jpg?v=1614721436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / BLACK PU</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-11100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-13102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / TAUPE</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-13108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543846178879</id>
+    <published>2021-03-02T13:00:14-08:00</published>
+    <updated>2021-03-02T13:00:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/zanrda-26k"/>
+    <title>Zanrda-26k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ZANDRA-26K_TAUPE.jpg?v=1614718815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heel Height:1.6 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Detail_Zipper</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543846178879</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-26K-02-13100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543846178879</id>
+      <title>E2 / CHESTNUT</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-26K-02-13131E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543846178879</id>
+      <title>E2 / TAUPE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-26K-02-13108E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543734898751</id>
+    <published>2021-03-02T09:48:51-08:00</published>
+    <updated>2021-03-02T09:48:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/phase-7k"/>
+    <title>Phase-7k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PHASE-7K_SILVER.jpg?v=1614707331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / ROSE GOLD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-14112E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / SILVER</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-14110E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-12100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-12102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / WHITE PU</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-11105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543732867135</id>
+    <published>2021-03-02T09:44:09-08:00</published>
+    <updated>2021-03-02T09:44:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/penn-1k"/>
+    <title>Penn-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PENN-1K_LEOPARD.jpg?v=1614707050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Beige</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Velcro</s:tag>
+    <s:tag>Material_Textile</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / BK/WH  TRIBAL</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25179E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25117E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / CAMEL</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25128E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / LEOPARD</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25122E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / MIX MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25127E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / ORANGE TRIBAL</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25150E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / TEAL/PINK TRIBAL</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25180E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543732867135</id>
+      <title>E / WINE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>PENN-1K-04-25114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542910554175</id>
+    <published>2021-03-01T15:44:25-08:00</published>
+    <updated>2021-03-01T15:44:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/oasis-1k"/>
+    <title>Oasis-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/OASIS-1K_WINE.jpg?v=1614642149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slipper</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542910554175</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>OASIS-1K-04-18100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542910554175</id>
+      <title>E / MAUVE</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>OASIS-1K-04-18129E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542910554175</id>
+      <title>E / CAMEL</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>OASIS-1K-04-18128E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542910554175</id>
+      <title>E / WINE</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>OASIS-1K-04-18114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542834729023</id>
+    <published>2021-03-01T14:41:47-08:00</published>
+    <updated>2021-03-01T14:41:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/nadine-38k"/>
+    <title>Nadine-38k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/NADINE-38K_BLACK.jpg?v=1614638508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542834729023</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>NADINE-38K-04-14100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542834729023</id>
+      <title>E / ROSE GOLD</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>NADINE-38K-04-14112E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542834729023</id>
+      <title>E / SILVER</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>NADINE-38K-04-14110E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542728134719</id>
+    <published>2021-03-01T12:53:13-08:00</published>
+    <updated>2021-03-01T12:53:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/nadine-1k"/>
+    <title>Nadine-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/NADINE-1K_BLUSH.jpg?v=1614631993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542728134719</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>NADINE-1K-04-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542728134719</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>NADINE-1K-04-13117E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4756231061567</id>
+    <published>2021-03-01T12:37:53-08:00</published>
+    <updated>2021-03-01T12:37:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/mel-1k"/>
+    <title>Mel-1k</title>
+    <s:type>Slippers</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/MEL-1K_NAVYBLUE.png?v=1611355352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Slippers<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slipper</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4756231061567</id>
+      <title>E / NAVY</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>MEL-1K-06-18147E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542635204671</id>
+    <published>2021-03-01T11:57:20-08:00</published>
+    <updated>2021-03-01T11:57:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/lizzo-1k"/>
+    <title>Lizzo-1k</title>
+    <s:type>Sneaker</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/LIZZO-1K-BLUE.jpg?v=1614628642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sneaker<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Canvas</s:tag>
+    <s:tag>Style_Sneaker</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / MINT</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28154E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / CHEETAH</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28123E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / PINK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28171E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / RED</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28115E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / WHITE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / BLUE TIE DYE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28177E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / TIE DYE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28126E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542635204671</id>
+      <title>E / BLACK/BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>LIZZO-1K-07-28170E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542604861503</id>
+    <published>2021-03-01T11:23:03-08:00</published>
+    <updated>2021-03-01T11:23:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/lewis-1k"/>
+    <title>Lewis-1k</title>
+    <s:type>Slippers</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/LEWIS-1K_BLACK.jpg?v=1614626584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Slippers<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slipper</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542604861503</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>LEWIS-1K-06-18100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542604861503</id>
+      <title>E / TAUPE</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>LEWIS-1K-06-18108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542604861503</id>
+      <title>E / BLUSH LEOPARD</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>LEWIS-1K-06-18176E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542604861503</id>
+      <title>E / TAN LEOPARD</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>LEWIS-1K-06-18148E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542604861503</id>
+      <title>E / MAUVE</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>LEWIS-1K-06-18129E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542551220287</id>
+    <published>2021-03-01T10:43:51-08:00</published>
+    <updated>2021-03-01T10:43:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/keaton-2k"/>
+    <title>Keaton-2k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/KEATON-2K_MUSTARDYELLOW.jpg?v=1619822294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies<span data-mce-fragment="1"> suede</span><span data-mce-fragment="1"> </span>sandal slides with buckles and cork bottom.</p>
+<p data-mce-fragment="1">💜 Black, Tan, Leopard,<span data-mce-fragment="1"> Neon Yellow, Mustard Yellow</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Suede</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Neon</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542551220287</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>KEATON-2-04-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542551220287</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>KEATON-2-04-13102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542551220287</id>
+      <title>E / MUSTARD YELLOW</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>KEATON-2-04-13118E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542551220287</id>
+      <title>E / NEON YELLOW</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>KEATON-2-04-13119E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542551220287</id>
+      <title>E / LEOPARD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>KEATON-2-04-13122E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6538566631487</id>
+    <published>2021-02-26T12:58:10-08:00</published>
+    <updated>2021-02-26T12:58:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rosa-66k"/>
+    <title>Rosa-66k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROSA-66K_WHITE.jpg?v=1614373090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-14110E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / ROSE GOLD</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-14112E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / WHITE</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-11105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6537731571775</id>
+    <published>2021-02-25T16:59:36-08:00</published>
+    <updated>2021-02-25T16:59:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/scarlett-1k"/>
+    <title>Scarlett-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SCARLETT-1K_LEOPARD.jpg?v=1614301177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537731571775</id>
+      <title>E2 / LEOPARD</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>SCARLETT-1K-04-13122E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537731571775</id>
+      <title>E2 / CHESTNUT</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>SCARLETT-1K-04-13131E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6535946731583</id>
+    <published>2021-02-24T11:36:15-08:00</published>
+    <updated>2021-02-24T11:36:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/fallon-2k"/>
+    <title>Fallon-2k</title>
+    <s:type>Slippers</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/FALLON-2K_BLUSH.jpg?v=1614195377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Slippers<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids fur slippers</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan, Blush, Wine, Grey, Tan/Leopard</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong><span data-mce-fragment="1">Faux Fur, Suede</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Slipper</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535946731583</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>FALLON-2K-06-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535946731583</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>FALLON-2K-06-13117E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535946731583</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>FALLON-2K-06-13102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535946731583</id>
+      <title>E / WINE</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>FALLON-2K-06-13114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535946731583</id>
+      <title>E / GREY</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>FALLON-2K-06-13104E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535946731583</id>
+      <title>E / LEOPARD/TAN</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>FALLON-2K-06-13148E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6535880540223</id>
+    <published>2021-02-24T09:34:46-08:00</published>
+    <updated>2021-02-24T09:34:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/darcie-1a"/>
+    <title>Darcie-1a</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/DARCIE-1A_WHITE.jpg?v=1619214887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Toddlers </span>open<span data-mce-fragment="1"> </span>toe, block heel with ankle strap.  Ankle strap velcro close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</span></p>
+<p data-mce-fragment="1">💜 White PU</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Champagne Glitter, Silver Glitter</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong> 1 inch</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / CHAMPAGNE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-14111DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / SILVER</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-14110DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / TAUPE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-12108DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6535214825535</id>
+    <published>2021-02-23T17:12:29-08:00</published>
+    <updated>2021-02-23T17:12:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/sterling-1k"/>
+    <title>Sterling-1k</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/STERLING-1K_BLUSH.jpg?v=1614129150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Lycra</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535214825535</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>STERLING-1K-04-24100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535214825535</id>
+      <title>E / BLUSH</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>STERLING-1K-04-24117E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535214825535</id>
+      <title>E / MULTI</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>STERLING-1K-04-24127E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535214825535</id>
+      <title>E / WHITE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>STERLING-1K-04-24105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

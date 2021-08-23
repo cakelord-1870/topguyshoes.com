@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/flats-1.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-03-02T09:48:51-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/6543734898751</id>
+    <published>2021-03-02T09:48:51-08:00</published>
+    <updated>2021-03-02T09:48:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/phase-7k"/>
+    <title>Phase-7k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PHASE-7K_SILVER.jpg?v=1614707331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / ROSE GOLD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-14112E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / SILVER</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-14110E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-12100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-12102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543734898751</id>
+      <title>E / WHITE PU</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PHASE-7K-05-11105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4948878458943</id>
+    <published>2021-02-10T10:44:12-08:00</published>
+    <updated>2021-02-10T10:44:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gia-52k"/>
+    <title>Gia-52k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GIA-52K-RED.jpg?v=1612982653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids quilted detail<span> </span>flat with espadrille bottom.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black, Red, White, Nude</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Material:</strong> PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1.1 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4948878458943</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>GIA-52K-05-11100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4948878458943</id>
+      <title>E2 / NUDE</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>GIA-52K-05-11106E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4948878458943</id>
+      <title>E2 / RED</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>GIA-52K-05-11115E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4948878458943</id>
+      <title>E2 / WHITE</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>GIA-52K-05-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4947747274815</id>
+    <published>2021-02-09T11:25:10-08:00</published>
+    <updated>2021-02-09T11:25:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gia-33k"/>
+    <title>Gia-33k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GIA-33K-ROSEGOLD.jpg?v=1612898711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids rhinestone- covered flat with espadrille bottom.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black Rose Gold, Silver</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Material:</strong> Suede</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1.1 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4947747274815</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>GIA-33K-05-13100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4947747274815</id>
+      <title>E2 / ROSE GOLD</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>GIA-33K-05-13112E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4947747274815</id>
+      <title>E2 / SILVER</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>GIA-33K-05-13110E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4946995511359</id>
+    <published>2021-02-08T16:03:38-08:00</published>
+    <updated>2021-02-08T16:03:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gia-1k"/>
+    <title>Gia-1k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GIA-1K_RED.jpg?v=1619733200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids flat with espadrille bottom<br></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black Suede, Red Suede, Chestnut Suede</span></p>
+<p data-mce-fragment="1"><span>💜 Snake PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1.1 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946995511359</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>GIA-1K-05-13100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946995511359</id>
+      <title>E2 / CHESTNUT</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>GIA-1K-05-13131E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946995511359</id>
+      <title>E2 / RED</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>GIA-1K-05-13115E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946995511359</id>
+      <title>E2 / SNAKE</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>GIA-1K-05-11133E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887488266303</id>
+    <published>2020-12-29T11:15:34-08:00</published>
+    <updated>2020-12-29T11:15:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bruce-1k"/>
+    <title>Bruce-1k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRUCE-1K_SILVER.jpg?v=1608235132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids ballet flat embellished with glitter and jewels. Buckle strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Champagne, Silver</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Glitter</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887488266303</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1K-05-14100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887488266303</id>
+      <title>E / CHAMPAGNE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1K-05-14111E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887488266303</id>
+      <title>E / SILVER</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1K-05-14110E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887481745471</id>
+    <published>2020-12-29T11:15:34-08:00</published>
+    <updated>2020-12-29T11:15:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bruce-16k"/>
+    <title>Bruce-16k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRUCE-16K_WHITE.jpg?v=1608234599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids classic ballet flat. Buckle strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Nude Patent</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 White PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887481745471</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1-05-12100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887481745471</id>
+      <title>E / NUDE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1-05-15106E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887481745471</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1-05-12102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887481745471</id>
+      <title>E / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>BRUCE-1-05-11105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4444921626687</id>
+    <published>2020-12-29T11:15:14-08:00</published>
+    <updated>2020-12-29T11:15:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bruce-38k"/>
+    <title>Bruce-38k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRUCE-38K_SILVER.jpg?v=1577823985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids ballet flat with embellished rhinestones.<br></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Silver, Rose Gold</p>
+<p data-mce-fragment="1"> </p>
+<p><strong>Material: </strong>Glitter</p>
+<p><strong data-mce-fragment="1">Height: </strong>Flat</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444921626687</id>
+      <title>E / SILVER</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>BRUCE-38K-05-14110E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444921626687</id>
+      <title>E / ROSE GOLD</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>BRUCE-38K-05-14112E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444921626687</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>BRUCE-38K-05-14100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/3564166873151</id>
+    <published>2020-12-29T11:15:09-08:00</published>
+    <updated>2020-12-29T11:15:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/ace-6k"/>
+    <title>Ace-6k</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ACE-6K_LEOPARD.jpg?v=1607991260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kid ballet flat with crossed elastic ankle straps. Back zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 </span>Wine Suede, Leopard Suede</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 </span>Champagne Glitter, Silver Glitter</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> </span>White PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/3564166873151</id>
+      <title>E3 / LEOPARD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ACE-6K-05-13122E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/3564166873151</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ACE-6K-05-14110E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/3564166873151</id>
+      <title>E3 / WHITE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ACE-6K-05-11105E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/3564166873151</id>
+      <title>E3 / WINE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ACE-6K-05-13114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/3564166873151</id>
+      <title>E3 / TAN</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ACE-6K-05-12102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/3564166873151</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ACE-6K-05-12100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/heels-1.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-07-01T15:14:55-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/1690051510335</id>
+    <published>2021-07-01T15:14:55-07:00</published>
+    <updated>2021-07-01T15:14:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/delia-6k"/>
+    <title>Delia-6k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/DELIA-6K_CHAMPAGNE.jpg?v=1555458751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / CHAMPAGNE</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-14111E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / RED</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-12115E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / TAN</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-12102E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-14110E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1690051510335</id>
+      <title>E3 / WHITE</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>DELIA-6K-03-11105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6586645348415</id>
+    <published>2021-04-07T12:20:48-07:00</published>
+    <updated>2021-04-07T12:20:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/tate-1k"/>
+    <title>Tate-1k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TATE-1K_WHITE.jpg?v=1617823235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heel Height: 1.7 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-12100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / TAN</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-12102E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / WHITE PU</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6586645348415</id>
+      <title>E2 / RED</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>TATE-1K-03-12115E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6538566631487</id>
+    <published>2021-02-26T12:58:10-08:00</published>
+    <updated>2021-02-26T12:58:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rosa-66k"/>
+    <title>Rosa-66k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROSA-66K_WHITE.jpg?v=1614373090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-14110E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / ROSE GOLD</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-14112E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6538566631487</id>
+      <title>E3 / WHITE</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>ROSA-66K-03-11105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6535880540223</id>
+    <published>2021-02-24T09:34:46-08:00</published>
+    <updated>2021-02-24T09:34:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/darcie-1a"/>
+    <title>Darcie-1a</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/DARCIE-1A_WHITE.jpg?v=1619214887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Toddlers </span>open<span data-mce-fragment="1"> </span>toe, block heel with ankle strap.  Ankle strap velcro close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</span></p>
+<p data-mce-fragment="1">💜 White PU</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Champagne Glitter, Silver Glitter</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong> 1 inch</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / CHAMPAGNE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-14111DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / SILVER</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-14110DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / TAUPE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-12108DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535880540223</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>DARCIE-1A-03-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4912545103935</id>
+    <published>2021-02-19T14:05:33-08:00</published>
+    <updated>2021-02-19T14:05:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/darcie-1k"/>
+    <title>Darcie-1k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/DARCIE-1K_NUDE.jpg?v=1613772177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kids </span>open<span data-mce-fragment="1"> </span>toe, block heel with ankle strap.  Ankle strap buckle close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</span></p>
+<p data-mce-fragment="1">💜 White PU</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Nude Patent</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Champagne Glitter, Silver Glitter</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>1.7 inches</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4912545103935</id>
+      <title>E3 / NUDE</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>DARCIE-1K-03-15106E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4912545103935</id>
+      <title>E3 / WHITE</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>DARCIE-1K-03-11105E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4912545103935</id>
+      <title>E3 / TAUPE</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>DARCIE-1K-03-12108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4912545103935</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>DARCIE-1K-03-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4912545103935</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>DARCIE-1K-03-14110E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4912545103935</id>
+      <title>E3 / CHAMPAGNE</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>DARCIE-1K-03-14111E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4956667871295</id>
+    <published>2021-02-17T15:56:04-08:00</published>
+    <updated>2021-02-17T15:56:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gallery-45k"/>
+    <title>Gallery-45k</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GALLERY-45K_SILVER.jpg?v=1619718314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids open toe, block heel with rhinestones. Back zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black Nubuck</span></p>
+<p data-mce-fragment="1"> <span data-mce-fragment="1">💜 Rose Gold Glitter, Silver Glitter</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong> 1.6 inches</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4956667871295</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>GALLERY-45K-03-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4956667871295</id>
+      <title>E3 / SILVER</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>GALLERY-45K-03-14110E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4956667871295</id>
+      <title>E3 / ROSE GOLD</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>GALLERY-45K-03-14112E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-toddlers-boots.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-01-04T16:28:38-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4903499530303</id>
+    <published>2021-01-04T16:28:38-08:00</published>
+    <updated>2021-01-04T16:28:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/atlas-1a"/>
+    <title>Atlas-1a</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ATLAS-1A_BLUSH.jpg?v=1609806407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers r<span data-mce-fragment="1">hinestone studded boots</span> with faux fur lining.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Mauve, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Suede </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / GREY</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13104DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / MAUVE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13129DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

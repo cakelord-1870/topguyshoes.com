@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-womens-dress.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-04-29T10:47:58-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4393369665599</id>
+    <published>2021-04-29T10:47:58-07:00</published>
+    <updated>2021-04-29T10:47:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/alder-1"/>
+    <title>Alder-1</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ALDER-1_BLACK_9205794c-7177-4fe4-9b58-daed095901d9.jpg?v=1616179955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies open toe heels with transparent double straps and clear heel</p>
+<p><strong>Colorways</strong>:</p>
+<p>💜 Black Nubuck, Nude Nubuck</p>
+<p><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> BK/Wh Snake</span> PU, White PU</p>
+<p><span data-mce-fragment="1">💜 Cork</span></p>
+<p><span data-mce-fragment="1" mce-data-marked="1"><strong>Materials: </strong>Perspex, Lucite</span></p>
+<p><strong data-mce-fragment="1">Heel Height:<span> </span></strong>4.8 inches</p>
+<p>If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Snake</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Transparent</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Cork</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Vinyl</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>A12 / BK/WH  SNAKE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-11121A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>A12 / CORK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-21102A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>A12 / NUDE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-12106A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>A12 / WHITE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-11105A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-12100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>B12 / BK/WH  SNAKE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-11121B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>B12 / CORK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-21102B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>B12 / NUDE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-12106B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>B12 / WHITE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-11105B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-12100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>A12 / CAMEL PAT</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-15128A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4393369665599</id>
+      <title>B12 / CAMEL PAT</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ALDER-1-03-15128B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4312713429055</id>
+    <published>2021-04-13T11:53:02-07:00</published>
+    <updated>2021-04-13T11:53:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/belle-1"/>
+    <title>Belle-1</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BELLE-1_BLACK_LEOPARD.jpg?v=1572042037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies open toe, block heels with clear strap. Back zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Black/Leopard Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> Snake </span>PU</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> Nude Patent</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" mce-data-marked="1"><strong data-mce-fragment="1">Materials: </strong>Perspex, Lucite</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong>  3.2 inches</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Snake</s:tag>
+    <s:tag>Detail_Transparent</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>A / LEOPARD</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-12122A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>A / SNAKE</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-11121A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>A / NUDE</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-15106A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>B / LEOPARD</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-12122B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>B / SNAKE</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-11121B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312713429055</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>BELLE-1-03-15106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887417290815</id>
+    <published>2020-12-29T11:15:29-08:00</published>
+    <updated>2020-12-29T11:15:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bonica-27"/>
+    <title>Bonica-27</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BONICA-27_CHAMPAGNE.jpg?v=1618430818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies peep toe high heels. Ankle buckle close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Snake PU</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Champagne</span> Glitter, Silver Glitter</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>4.6 inches<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>A / CHAMPAGNE</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-14111A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>A / SILVER</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-14110A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>A / SNAKE</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-11133A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>B / CHAMPAGNE</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-14111B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>B / SNAKE</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-11133B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>C / CHAMPAGNE</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-14111C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>C / SILVER</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-14110C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887417290815</id>
+      <title>C / SNAKE</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>BONICA-27-03-11133C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886047227967</id>
+    <published>2020-12-29T11:15:21-08:00</published>
+    <updated>2020-12-29T11:15:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/asia-8"/>
+    <title>Asia-8</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASIA-8_LIGHTBLUSH.jpg?v=1608151893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            2.50 - 9.25
+            <a href="https://topguyshoes.com/products/asia-8">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies open toe heels with buckle ankle strap. Front crisscross strap.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Light Blush Suede, Wine Suede</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong><span data-mce-fragment="1">3.6 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>ASIA-8-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>A / LIGHT BLUSH</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>ASIA-8-03-13117A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>ASIA-8-03-12102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>A / WINE</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>ASIA-8-03-13114A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>ASIA-8-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>B / LIGHT BLUSH</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>ASIA-8-03-13117B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>ASIA-8-03-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886047227967</id>
+      <title>B / WINE</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>ASIA-8-03-13114B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4885947220031</id>
+    <published>2020-12-29T11:15:20-08:00</published>
+    <updated>2020-12-29T11:15:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/asia-75"/>
+    <title>Asia-75</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASIA-75_SILVER.jpg?v=1608147864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies open toe heels with crossed ankle straps.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck, Red Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Rose Gold</span> Glitter, Silver Glitter</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height: </strong>3.6 inches<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>A / RED</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12115A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>A / ROSE GOLD</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-14112A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>A / SILVER</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-14110A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>B / RED</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12115B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-14112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>C / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12100C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>C / ROSE GOLD</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-14112C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>C / SILVER</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-14110C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885947220031</id>
+      <title>C / TAN</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>ASIA-75-03-12102C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4651978063935</id>
+    <published>2020-12-29T11:15:15-08:00</published>
+    <updated>2020-12-29T11:15:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bling-1"/>
+    <title>Bling-1</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BLING-1_ROSEGOLD.jpg?v=1591808480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            13.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies open toe heels with embellished rhinestones. Back zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Rose Gold</span> Glitter, Silver Glitter</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>4 inches<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4651978063935</id>
+      <title>A12 / ROSE GOLD</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>BLING-1-03-14112A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4651978063935</id>
+      <title>A12 / SILVER</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>BLING-1-03-14110A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4651978063935</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>BLING-1-03-12100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4651978063935</id>
+      <title>B12 / ROSE GOLD</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>BLING-1-03-14112B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4651978063935</id>
+      <title>B12 / SILVER</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>BLING-1-03-14110B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4651978063935</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">13.25</s:price>
+      <s:sku>BLING-1-03-12100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4310028582975</id>
+    <published>2020-12-29T11:15:10-08:00</published>
+    <updated>2020-12-29T11:15:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/asia-66"/>
+    <title>Asia-66</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASIA-66_RED.jpg?v=1571954246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies open toe heels with ankle strap and crossed straps. Embellished with rhinestones.</p>
+<p><strong>Colorways</strong>:</p>
+<p>💜 Black Nubuck, Red Nubuck</p>
+<p><span data-mce-fragment="1">💜 Champagne</span> Glitter, Silver Glitter</p>
+<p><strong>Heel Height:<span> </span></strong><span data-mce-fragment="1">3.5 inches</span><br></p>
+<p>If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>A / RED</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-12115A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>A / SILVER</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-14110A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>A / CHAMPAGNE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-14111A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>B / RED</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-12115B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>B / CHAMPAGNE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-14111B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>C / RED</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-12115C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>C / SILVER</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-14110C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>C / CHAMPAGNE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-14111C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310028582975</id>
+      <title>C / BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ASIA-66-03-12100C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4310025994303</id>
+    <published>2020-12-29T11:15:10-08:00</published>
+    <updated>2020-12-29T11:15:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/belle-23"/>
+    <title>Belle-23</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BELLE-23_ROSE_GOLD.jpg?v=1571953997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            6.50 - 9.50
+            <a href="https://topguyshoes.com/products/belle-23">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies open toe, block heels with jewel embellished heel and strap. Back zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck</p>
+<p data-mce-fragment="1"><span>💜 White PU</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Silver</span><span data-mce-fragment="1"> Metallic, Rose Gold Metallic</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong>  3.2 inches</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Metallic</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>A / ROSE GOLD</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>BELLE-23-03-22112A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>A / WHITE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>BELLE-23-03-11105A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>BELLE-23-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>A / SILVER</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>BELLE-23-03-22110A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>BELLE-23-03-22112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>BELLE-23-03-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>BELLE-23-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4310025994303</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>BELLE-23-03-22110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/1931854544959</id>
+    <published>2020-12-29T11:15:06-08:00</published>
+    <updated>2020-12-29T11:15:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/asia-1"/>
+    <title>Asia-1</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ASIA-1_RED.jpg?v=1608078230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies open toe heels with ankle strap.</p>
+<p><strong>Colorways</strong>:</p>
+<p>💜 Black Nubuck, Tan Nubuck, Red Nubuck</p>
+<p><span data-mce-fragment="1">💜 </span>Wine Suede, Red Suede, Mustard Yellow Suede</p>
+<p><span data-mce-fragment="1">💜 Rose Gold</span> Glitter, Silver Glitter</p>
+<p><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> Nude Patent</span></p>
+<p><strong>Heel Height: </strong><span data-mce-fragment="1">3.5 inches</span><br></p>
+<p>If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Mustard Yellow</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / RED</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12115A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / RED</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12115B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / RED</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12115C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / TAN</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12102C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / BLACK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-12100C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / MUSTARD YELLOW</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13118A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / MUSTARD YELLOW</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13118B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / MUSTARD YELLOW</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13118C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / ROSE GOLD</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-14112A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-14112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / ROSE GOLD</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-14112C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / SILVER</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-14110A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / SILVER</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-14110C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / WINE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13114A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / WINE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13114B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / WINE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13114C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / NUDE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-15106A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-15106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / NUDE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-15106C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>A / RED SUEDE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13115A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>B / RED SUEDE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13115B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1931854544959</id>
+      <title>C / RED SUEDE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>ASIA-1-03-13115C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4312693407807</id>
+    <published>2019-10-25T14:49:49-07:00</published>
+    <updated>2019-10-25T14:49:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/choo-1"/>
+    <title>Choo-1</title>
+    <s:type>Heels</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CHOO-1_BLACK.jpg?v=1609898093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Heels<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies open toe, platform high heel with rhinestone embellished thick ankle strap and transparent strap. Back zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Red, Nude</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials:</strong><span> Nubuck, Perspex, Lucite</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> Rose Gold, Silver</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" mce-data-marked="1"><strong data-mce-fragment="1">Materials:</strong> Glitter, Perspex, Lucite</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height: </strong>4 inches</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Rhinestone</s:tag>
+    <s:tag>Detail_Transparent</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>A / ROSE GOLD</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-14112A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>A / NUDE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12106A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-14112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>C / ROSE GOLD</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-14112C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>C / BLACK</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12100C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>C / NUDE</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12106C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>C / SILVER</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>COSMO-1-14110A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>A / SILVER</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>COSMO-1-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>A / RED</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12115A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>B / RED</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12115B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4312693407807</id>
+      <title>C / RED</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>CHOO-1-03-12115C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

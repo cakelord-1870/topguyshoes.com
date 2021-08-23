@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/boots.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-07-22T15:33:44-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/6554850623551</id>
+    <published>2021-07-22T15:33:44-07:00</published>
+    <updated>2021-07-22T15:33:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/sperry-8k"/>
+    <title>Sperry-8k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SPERRY-8K_BROWN.jpg?v=1621440942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Boot</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / TAUPE</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / BROWN PU</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-11101E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6554850623551</id>
+      <title>E3 / BLACK PU</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>SPERRY-8K-01-11100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958998790207</id>
+    <published>2021-02-22T14:06:48-08:00</published>
+    <updated>2021-02-22T14:06:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/coleen-99k"/>
+    <title>Coleen-99k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/COLEEN-99K_BLACK.jpg?v=1613766784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies weatherproof bootie with fur lining and padded construction.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Wine, Brown, Taupe</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Nylon</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height:<span data-mce-fragment="1"> </span></strong>Flat</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Weatherproof</s:tag>
+    <s:tag>Material_Nylon</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958998790207</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>COLEEN-99K-01-23100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958998790207</id>
+      <title>E / BROWN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>COLEEN-99K-01-23101E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958998790207</id>
+      <title>E / GREY</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>COLEEN-99K-01-23104E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958998790207</id>
+      <title>E / WINE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>COLEEN-99K-01-23114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958998790207</id>
+      <title>E / TAUPE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>COLEEN-99K-01-23108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958973395007</id>
+    <published>2021-02-22T14:05:50-08:00</published>
+    <updated>2021-02-22T14:05:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/coleen-8k"/>
+    <title>Coleen-8k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/COLEEN-8K_GREY.jpg?v=1613764039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids lace up weatherproof bootie with fur lining and padded construction. <span data-mce-fragment="1">Side zipper close.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Wine, Brown, Taupe</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Nylon</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height:<span data-mce-fragment="1"> </span></strong>Flat</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Weatherproof</s:tag>
+    <s:tag>Material_Nylon</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958973395007</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>COLEEN-8K-01-23100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958973395007</id>
+      <title>E / BROWN</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>COLEEN-8K-01-23101E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958973395007</id>
+      <title>E / WINE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>COLEEN-8K-01-23114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958973395007</id>
+      <title>E / GREY</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>COLEEN-8K-01-23104E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958973395007</id>
+      <title>E / TAUPE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>COLEEN-8K-01-23108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958959894591</id>
+    <published>2021-02-22T14:04:39-08:00</published>
+    <updated>2021-02-22T14:04:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/coleen-1k"/>
+    <title>Coleen-1k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/COLEEN-1K_WINE.jpg?v=1613762594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids weatherproof bootie with back pull strap, fur lining and padded construction.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Wine, Brown, Taupe</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Nylon</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height:<span data-mce-fragment="1"> </span></strong>Flat</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Weatherproof</s:tag>
+    <s:tag>Material_Nylon</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958959894591</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>COLEEN-1K-01-23100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958959894591</id>
+      <title>E / BROWN</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>COLEEN-1K-01-23101E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958959894591</id>
+      <title>E / WINE</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>COLEEN-1K-01-23114E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958959894591</id>
+      <title>E / TAUPE</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>COLEEN-1K-01-23108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958959894591</id>
+      <title>E / GREY</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>COLEEN-1K-01-23104E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4961481687103</id>
+    <published>2021-02-22T09:48:09-08:00</published>
+    <updated>2021-02-22T09:48:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/greta-1k"/>
+    <title>Greta-1k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GRETA-1K_CHESTNUT.jpg?v=1614016090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids suede tall boots with accent tassel zipper. Side zipper close.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Black, Chestnut</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong> Suede</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height: </strong>1<span data-mce-fragment="1"> inch</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Zipper</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Boot</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961481687103</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>GRETA-1K-01-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961481687103</id>
+      <title>E3 / CHESTNUT</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>GRETA-1K-01-13131E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958165729343</id>
+    <published>2021-02-18T17:20:02-08:00</published>
+    <updated>2021-02-18T17:20:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/jones-22k"/>
+    <title>Jones-22k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/JONES-22K_BLACK.jpg?v=1613697603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids tall boot with lace up  back tie. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Chestnut, Taupe</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong> Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>1.1 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Detail_Lace Up</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Boot</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958165729343</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>JONES-22K-01-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958165729343</id>
+      <title>E3 / CHESTNUT</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>JONES-30K-01-13131E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958165729343</id>
+      <title>E3 / TAUPE</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>JONES-30K-01-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4903493795903</id>
+    <published>2021-01-04T16:25:11-08:00</published>
+    <updated>2021-01-04T16:25:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/atlas-1k"/>
+    <title>Atlas-1k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ATLAS-1K_BLACK.jpg?v=1609805864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids r<span data-mce-fragment="1">hinestone studded boots</span><span data-mce-fragment="1"> </span>with faux fur lining.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Mauve, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:<span data-mce-fragment="1"> </span></strong>Suede </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / GREY</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13104E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / MAUVE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13129E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903493795903</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1K-01-13102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4885823193151</id>
+    <published>2020-12-29T11:15:18-08:00</published>
+    <updated>2020-12-29T11:15:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/alida-32k"/>
+    <title>Alida-32k</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ALIDA-32K_CHESTNUT.jpg?v=1608141418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids over the knee suede boots. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Suede, Wine <span data-mce-fragment="1">Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Chestnut</span> Suede, Taupe Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>1 inch<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / TAUPE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / WINE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13114E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885823193151</id>
+      <title>E3 / CHESTNUT</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>ALIDA-32K-02-13131E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/9981245265</id>
+    <published>2017-08-25T10:32:17-07:00</published>
+    <updated>2017-08-25T10:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/jones-30k"/>
+    <title>Jones-30K</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/JONES-30K_WINE_copy.jpg?v=1503682485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids tall boot with lace up  back tie. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Chestnut, Taupe, Wine</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong> Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>1.1 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Lace Up</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Boot</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981245265</id>
+      <title>E3 / Wine</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-30K-01-13114E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981245265</id>
+      <title>E3 / Taupe</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-30K-01-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981245265</id>
+      <title>E3 / Black</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-30K-01-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981245265</id>
+      <title>E3 / Chestnut</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-30K-01-13131E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/9981243281</id>
+    <published>2017-08-25T10:28:35-07:00</published>
+    <updated>2017-08-25T10:28:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/jones-6k"/>
+    <title>Jones-6K</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/JONES-6K_TAUPE.jpg?v=1610673491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids tall boots with back lace up tie. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Chestnut, Dark Taupe, Wine</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong> Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>1.1 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Lace Up</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981243281</id>
+      <title>E3 / Taupe</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-6K-01-13108E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981243281</id>
+      <title>E3 / Wine</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-6K-01-13114E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981243281</id>
+      <title>E3 / Black</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-6K-01-13100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/9981243281</id>
+      <title>E3 / Chestnut</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>JONES-6K-01-13131E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

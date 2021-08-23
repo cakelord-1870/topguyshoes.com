@@ -1,0 +1,2410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/womens-sandals.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-07-22T15:45:17-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/6572256264255</id>
+    <published>2021-07-22T15:45:17-07:00</published>
+    <updated>2021-07-22T15:45:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rowen-26"/>
+    <title>Rowen-36</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROWEN-36-TAN.jpg?v=1617985841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Studs</s:tag>
+    <s:tag>Material_Elastic</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6572256264255</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>ROWEN-36-04-26100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6572256264255</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>ROWEN-36-04-26106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6572256264255</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>ROWEN-36-04-26102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6572256264255</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>ROWEN-36-04-26100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6572256264255</id>
+      <title>G / NUDE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>ROWEN-36-04-26106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6572256264255</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>ROWEN-36-04-26102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6570830037055</id>
+    <published>2021-07-22T15:44:22-07:00</published>
+    <updated>2021-07-22T15:44:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rowen-8"/>
+    <title>Rowen-8</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROWEN-8_TAN.jpg?v=1617985373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_Elastic</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570830037055</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>ROWEN-1-04-26100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570830037055</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>ROWEN-1-04-26102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570830037055</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>ROWEN-1-04-26106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570830037055</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>ROWEN-1-04-26100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570830037055</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>ROWEN-1-04-26102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570830037055</id>
+      <title>G / NUDE</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>ROWEN-1-04-26106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6612842774591</id>
+    <published>2021-07-22T09:59:55-07:00</published>
+    <updated>2021-07-22T09:59:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/trisha-1"/>
+    <title>Trisha-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TRISHA-1_NUDE.jpg?v=1620411407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Detail_Rhinestone</s:tag>
+    <s:tag>Detail_Studs</s:tag>
+    <s:tag>Material_Jelly</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MJ / BLACK</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20100MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MJ / NUDE</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20106MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MJ / CLEAR</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20146MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MJ / RED</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20115MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MZ / BLACK</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20100MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MZ / NUDE</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20106MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MZ / CLEAR</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20146MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6612842774591</id>
+      <title>MZ / RED</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TRISHA-1-04-20115MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6576226336831</id>
+    <published>2021-07-01T12:59:12-07:00</published>
+    <updated>2021-07-01T12:59:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-46"/>
+    <title>Candide-46</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-46_WHITE.jpg?v=1617736911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies open toe ankle strap gladiator platform sandal with espadrille trim.<span> Buckle</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan, Camel, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:<span> </span></strong>PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 2.3 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 1.2 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Studs</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>A / CAMEL</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11128A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>A / WHITE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11105A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>B / CAMEL</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11128B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6576226336831</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CANDIDE-46-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/1633242185791</id>
+    <published>2021-04-15T14:31:35-07:00</published>
+    <updated>2021-04-15T14:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cadide-1"/>
+    <title>Candide-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-1_TAN_NUB.jpg?v=1618522022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies open toe ankle strap platform sandal with espadrille trim. Buckle strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span>💜 White PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 2.3 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 1.2 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1633242185791</id>
+      <title>A / TAN NUB</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CANDIDE-1-04-12102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1633242185791</id>
+      <title>A / BLACK NUB</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CANDIDE-1-04-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1633242185791</id>
+      <title>A / WHITE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CANDIDE-1-04-11105A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1633242185791</id>
+      <title>B / TAN NUB</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CANDIDE-1-04-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1633242185791</id>
+      <title>B / BLACK NUB</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CANDIDE-1-04-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1633242185791</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CANDIDE-1-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887518249023</id>
+    <published>2021-04-15T13:34:22-07:00</published>
+    <updated>2021-04-15T13:34:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cab-36"/>
+    <title>Cab-36</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CAB-36_BLACK.jpg?v=1608238087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies slides with faux fur and rhinestones band on upper<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Multi, White, Camel, Hot Pink</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MJ / BLACK</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18100MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MJ / BLUSH</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18117MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MJ / MULTI</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18127MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MJ / WHITE</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18105MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MY / BLACK</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18100MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MY / BLUSH</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18117MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MY / MULTI</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18127MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MY / WHITE</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18105MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MY / CAMEL</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18128MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MJ / CAMEL</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18128MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MY / HOT PINK</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18116MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887518249023</id>
+      <title>MJ / HOT PINK</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>CAB-36-04-18116MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6570893279295</id>
+    <published>2021-03-25T12:34:39-07:00</published>
+    <updated>2021-03-25T12:34:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/medusa-1"/>
+    <title>Medusa-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/MEDUSA-1_SILVER.jpg?v=1616700839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570893279295</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MEDUSA-1-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570893279295</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MEDUSA-1-04-11110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570893279295</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MEDUSA-1-04-11112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570893279295</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MEDUSA-1-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570893279295</id>
+      <title>G / SILVER</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MEDUSA-1-04-11110G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6570893279295</id>
+      <title>G / ROSE GOLD</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MEDUSA-1-04-11112G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543025242175</id>
+    <published>2021-03-01T16:58:15-08:00</published>
+    <updated>2021-03-01T16:58:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/penn-1"/>
+    <title>Penn-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PENN-1_CAMEL.jpg?v=1614646696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Velcro</s:tag>
+    <s:tag>Material_Textile</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / BLACK/WHITE TRIBAL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25179B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / BLUSH</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25117B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / TEAL/PINK TRIBAL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25180B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / CAMEL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25128B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / LEOPARD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25122B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>B / MIX MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25127B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / BLACK/WHITE TRIBAL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25179G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / BLUSH</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25117G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / TEAL/PINK TRIBAL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25180G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / CAMEL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25128G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / LEOPARD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25122G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>G / MIX MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25127G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25100L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / BLACK/WHITE TRIBAL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25179L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / BLUSH</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25117L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / TEAL/PINK TRIBAL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25180L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / CAMEL</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25128L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / LEOPARD</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25122L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543025242175</id>
+      <title>L12 / MIX MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>PENN-1-04-25127L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542906425407</id>
+    <published>2021-03-01T15:44:35-08:00</published>
+    <updated>2021-03-01T15:44:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/oasis-1"/>
+    <title>Oasis-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/OASIS-1_MAUVE-original.jpg?v=1614641743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slipper</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542906425407</id>
+      <title>MJ / BLACK</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>OASIS-1-04-18100MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542906425407</id>
+      <title>MJ / CAMEL</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>OASIS-1-04-18128MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542906425407</id>
+      <title>MJ / MAUVE</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>OASIS-1-04-18129MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542906425407</id>
+      <title>MY / BLACK</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>OASIS-1-04-18100MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542906425407</id>
+      <title>MY / CAMEL</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>OASIS-1-04-18128MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542853537855</id>
+    <published>2021-03-01T14:53:59-08:00</published>
+    <updated>2021-03-01T14:53:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/nicole-1"/>
+    <title>Nicole-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/NICOLE-1_BEIGE.jpg?v=1614639240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Beige</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542853537855</id>
+      <title>B / BEIGE</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NICOLE-1-04-11107B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542853537855</id>
+      <title>G / BEIGE</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NICOLE-1-04-11107G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542733541439</id>
+    <published>2021-03-01T13:03:06-08:00</published>
+    <updated>2021-03-01T13:03:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/nadine-38"/>
+    <title>Nadine-38</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/NADINE-38_BLACK.jpg?v=1614632586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542733541439</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NADINE-38-04-14100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542733541439</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NADINE-38-04-14110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542733541439</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NADINE-38-04-14112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542733541439</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NADINE-38-04-14100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542733541439</id>
+      <title>G / SILVER</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NADINE-38-04-14110G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542733541439</id>
+      <title>G / ROSE GOLD</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>NADINE-38-04-14112G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6542708768831</id>
+    <published>2021-03-01T12:45:13-08:00</published>
+    <updated>2021-03-01T12:45:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/nadine-1"/>
+    <title>Nadine-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/NADINE-1_BLACK.jpg?v=1614631513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542708768831</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>NADINE-1-04-13100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542708768831</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>NADINE-1-04-13102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542708768831</id>
+      <title>B / BLUSH</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>NADINE-1-04-13117B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542708768831</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>NADINE-1-04-13100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542708768831</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>NADINE-1-04-13102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542708768831</id>
+      <title>G / BLUSH</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>NADINE-1-04-13117G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6537722789951</id>
+    <published>2021-02-25T16:49:45-08:00</published>
+    <updated>2021-02-25T16:49:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/scarlett-3"/>
+    <title>Scarlett-3</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SCARLETT-3_BLUSH.jpg?v=1614300597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            0.00 - 3.50
+            <a href="https://topguyshoes.com/products/scarlett-3">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Heel Height: 1.8 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Beige</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>B / BLUSH</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13117B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>B / CHESTNUT</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13131B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>B / SNAKE</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-11133B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>B / BEIGE</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13107B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>G / BLUSH</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13117G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>G / CHESTNUT</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13131G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>G / SNAKE</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13133G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>G / BEIGE</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13107G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>L12 / BLACK</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13100L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>L12 / BLUSH</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>SCARLETT-3-04-13117L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>L12 / CHESTNUT</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SCARLETT-3-04-13131L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>L12 / SNAKE</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SCARLETT-3-04-13133L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6537722789951</id>
+      <title>L12 / BEIGE</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SCARLETT-3-04-13107L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6536039333951</id>
+    <published>2021-02-24T14:20:14-08:00</published>
+    <updated>2021-02-24T14:20:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/vision-75"/>
+    <title>Vision-75</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/VISION-75_BLACK.jpg?v=1614205214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Heel Height: 1.7 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Heel</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536039333951</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>VISION-75-04-12100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536039333951</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>VISION-75-04-12102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536039333951</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>VISION-75-04-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536039333951</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>VISION-75-04-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4962982232127</id>
+    <published>2021-02-23T12:23:33-08:00</published>
+    <updated>2021-02-23T12:23:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cherish-1"/>
+    <title>Cherish-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CHERISH-1_BLACK.jpg?v=1614111418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies jelly caged flat slide sandals with jewel embellishment.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Nude, Red</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Jelly</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Jelly</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4962982232127</id>
+      <title>MJ / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CHERISH-1-04-20100MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4962982232127</id>
+      <title>MJ / NUDE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CHERISH-1-04-20106MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4962982232127</id>
+      <title>MJ / RED</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CHERISH-1-04-20115MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4962982232127</id>
+      <title>MY / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CHERISH-1-04-20100MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4962982232127</id>
+      <title>MY / NUDE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CHERISH-1-04-20106MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4962982232127</id>
+      <title>MY / RED</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CHERISH-1-04-20115MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4961557184575</id>
+    <published>2021-02-22T11:43:40-08:00</published>
+    <updated>2021-02-22T11:43:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/reba-1"/>
+    <title>Reba-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/REBA-1_NUDE.jpg?v=1614023021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Studs</s:tag>
+    <s:tag>Material_Jelly</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MJ / BLACK</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20100MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MJ / NUDE</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20106MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MZ / BLACK</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20100MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MZ / NUDE</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20106MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MJ / RED</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20115MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MZ / RED</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20115MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MJ / WHITE</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20105MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MZ / WHITE</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20105MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MJ / BLUSH</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20117MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MZ / BLUSH</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20117MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MJ / CLEAR</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20146MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961557184575</id>
+      <title>MZ / CLEAR</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>REBA-1-04-20146MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4959043780671</id>
+    <published>2021-02-19T13:56:56-08:00</published>
+    <updated>2021-02-19T13:56:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/tyson-38"/>
+    <title>Tyson-38</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TYSON-38_ROSEGOLD.jpg?v=1613771597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4959043780671</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>TYSON-38-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4959043780671</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>TYSON-38-04-11112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4959043780671</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>TYSON-38-04-11110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4959043780671</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>TYSON-38-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4959043780671</id>
+      <title>G / ROSE GOLD</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>TYSON-38-04-11112G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4959043780671</id>
+      <title>G / SILVER</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>TYSON-38-04-11110G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958148952127</id>
+    <published>2021-02-18T17:01:43-08:00</published>
+    <updated>2021-02-18T17:01:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/salvia-1"/>
+    <title>Salvia-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SALVIA-1WHITEcopy.jpg?v=1613696504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958148952127</id>
+      <title>A / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SALVIA-1-04-11100A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958148952127</id>
+      <title>A / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SALVIA-1-04-11102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958148952127</id>
+      <title>A / WHITE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SALVIA-1-04-11105A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958148952127</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SALVIA-1-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958148952127</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SALVIA-1-04-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958148952127</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>SALVIA-1-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958138302527</id>
+    <published>2021-02-18T16:55:44-08:00</published>
+    <updated>2021-02-18T16:55:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/olea-1"/>
+    <title>Olea-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/OLEA-1_NUDE.jpg?v=1613696145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958138302527</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>OLEA-1-04-15100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958138302527</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>OLEA-1-04-15106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958138302527</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>OLEA-1-04-15112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958138302527</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>OLEA-1-04-15100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958138302527</id>
+      <title>G / NUDE</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>OLEA-1-04-15106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958138302527</id>
+      <title>G / ROSE GOLD</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>OLEA-1-04-15112G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958089445439</id>
+    <published>2021-02-18T16:16:52-08:00</published>
+    <updated>2021-02-18T16:16:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rowen-75"/>
+    <title>Rowen-75</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROWEN-75_BLACK.jpg?v=1616089003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>B / BLUSH</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11117B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958089445439</id>
+      <title>G / BLUSH</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-75-04-11117G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4958085775423</id>
+    <published>2021-02-18T15:57:31-08:00</published>
+    <updated>2021-02-18T15:57:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rowen-1"/>
+    <title>Rowen-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROWEN-1_ROSEGOLD.jpg?v=1613692652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-12100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-12102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-11112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>B / BLUSH</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-12117B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-12100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-12102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>G / ROSE GOLD</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-11112G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4958085775423</id>
+      <title>G / BLUSH</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>ROWEN-1-04-12117G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4957997727807</id>
+    <published>2021-02-18T13:35:03-08:00</published>
+    <updated>2021-02-18T13:35:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/tessa-1"/>
+    <title>Tessa-1</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TESSA-1-BLACK.jpg?v=1616089048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Heel Height: 1.6 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Flat</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>B / CAMEL</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-11128B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>B / CHEETAH</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-13123B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>G / CAMEL</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-11128G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957997727807</id>
+      <title>G / CHEETAH</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>TESSA-1-04-13123G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4957930848319</id>
+    <published>2021-02-18T12:08:11-08:00</published>
+    <updated>2021-02-18T12:08:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/mick-28"/>
+    <title>Mick-28</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/MICK-28_TAN.jpg?v=1613678892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957930848319</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>MICK-28-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957930848319</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>MICK-28-04-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957930848319</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>MICK-28-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957930848319</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>MICK-28-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957930848319</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>MICK-28-04-11102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957930848319</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>MICK-28-04-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4957922099263</id>
+    <published>2021-02-18T12:01:57-08:00</published>
+    <updated>2021-02-18T12:01:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/tyson-9"/>
+    <title>Tyson-9</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/TYSON-9_SILVER.jpg?v=1613678492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>B / SILVER</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11110B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>B / ROSE GOLD</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11112B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>G / SILVER</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11110G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>G / ROSE GOLD</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11112G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>L12 / BLACK</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11100L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>L12 / SILVER</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11110L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4957922099263</id>
+      <title>L12 / ROSE GOLD</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>TYSON-9-04-11112L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4949110816831</id>
+    <published>2021-02-10T15:47:37-08:00</published>
+    <updated>2021-02-10T15:47:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/ike-43"/>
+    <title>Ike-43</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/IKE-43-WHITE.jpg?v=1613000858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies cushioned crisscross strap slide sandals.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Clear, Lavender, Mint, Nude, Tan, White</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong> PU</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Height:</strong> Flat</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Purple</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / CLEAR</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11146B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / LAVENDER</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11152B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / MINT</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11154B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / NUDE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11106B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / TAN</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>B / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11105B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11100G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / CLEAR</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11146G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / LAVENDER</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11152G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / MINT</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11154G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / NUDE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11106G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / TAN</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11102G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>G / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11105G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11100L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / CLEAR</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11146L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / LAVENDER</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11152L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / MINT</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11154L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / NUDE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11106L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / TAN</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11102L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4949110816831</id>
+      <title>L12 / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>IKE-43-04-11105L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

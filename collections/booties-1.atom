@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/booties-1.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-07-22T09:52:42-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/6550503358527</id>
+    <published>2021-07-22T09:52:42-07:00</published>
+    <updated>2021-07-22T09:52:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/zandra-38k"/>
+    <title>Zandra-38k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ZANDRA-38K_WHITE.jpg?v=1617302133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heel Height: 1.6 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11102E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / BROWN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11101E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550503358527</id>
+      <title>E2 / WHITE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-38K-02-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6550693904447</id>
+    <published>2021-03-08T15:34:57-08:00</published>
+    <updated>2021-03-08T15:34:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/la-6k"/>
+    <title>La-6k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/LA-6k_TAN.jpg?v=1615246498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kids Chelsea style bootie with elastic side panel and back pull strap.</span></p>
+<p data-mce-fragment="1">💜 Black, Tan, Brown<span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> </span>PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550693904447</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>LA-6K-02-11100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550693904447</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>LA-6K-02-11102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550693904447</id>
+      <title>E / BROWN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>LA-6K-02-11101E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6550501457983</id>
+    <published>2021-03-08T10:50:06-08:00</published>
+    <updated>2021-03-08T10:50:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gary-10k"/>
+    <title>Gary-10k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GARY-10K_TANcopy.jpg?v=1615229402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids ankle booties with accent buckle. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Nubuck</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong>  1.4 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550501457983</id>
+      <title>E3 / BLACK</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>GARY-10K-02-12100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6550501457983</id>
+      <title>E3 / TAN</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>GARY-10K-02-12102E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6547359563839</id>
+    <published>2021-03-05T10:14:08-08:00</published>
+    <updated>2021-03-05T10:14:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/sosanna-1k"/>
+    <title>Sosanna-1k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/SOSANNA-1K_TAN.jpg?v=1614968048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Heel Height: 1.4 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-12100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / TAN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-12102E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / BROWN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-12101E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6547359563839</id>
+      <title>E2 / WHITE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>SOSANNA-1K-02-11105E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543875899455</id>
+    <published>2021-03-02T13:43:56-08:00</published>
+    <updated>2021-03-02T13:43:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/plano-3k"/>
+    <title>Plano-3k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PLANO-3K_BLACKSU.jpg?v=1614721436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-13100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / BLACK PU</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-11100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-13102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543875899455</id>
+      <title>E / TAUPE</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>PLANO-3K-02-13108E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6543846178879</id>
+    <published>2021-03-02T13:00:14-08:00</published>
+    <updated>2021-03-02T13:00:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/zanrda-26k"/>
+    <title>Zanrda-26k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ZANDRA-26K_TAUPE.jpg?v=1614718815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heel Height:1.6 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Detail_Zipper</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543846178879</id>
+      <title>E2 / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-26K-02-13100E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543846178879</id>
+      <title>E2 / CHESTNUT</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-26K-02-13131E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6543846178879</id>
+      <title>E2 / TAUPE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ZANDRA-26K-02-13108E2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4961559543871</id>
+    <published>2021-02-22T11:47:30-08:00</published>
+    <updated>2021-02-22T11:47:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/hebe-6k"/>
+    <title>Hebe-6k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/HEBE-6K_TAN.jpg?v=1614023238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids ankle booties with accent buckle. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Nubuck</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong>  1.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961559543871</id>
+      <title>E / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>HEBE-6K-02-12100E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4961559543871</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>HEBE-6K-02-12102E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4884265599039</id>
+    <published>2020-12-29T11:15:16-08:00</published>
+    <updated>2020-12-29T11:15:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/alana-1k"/>
+    <title>Alana-1k</title>
+    <s:type>Booties</s:type>
+    <s:vendor>Lucky Top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ALANA-1K_TAN02.jpg?v=1608076204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Top<br>
+        <strong>Type: </strong>Booties<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kids Chelsea bootie with accent buckle and elastic ankle. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black PU, Tan PU, Brown PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Bootie</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4884265599039</id>
+      <title>E3 / Black</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ALANA-1-02-11100E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4884265599039</id>
+      <title>E3 / Tan</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ALANA-1-02-11102E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4884265599039</id>
+      <title>E3 / Brown</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ALANA-1-02-11101E3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

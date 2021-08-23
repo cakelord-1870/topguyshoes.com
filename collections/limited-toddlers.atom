@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-toddlers.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-01-04T16:28:38-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4903499530303</id>
+    <published>2021-01-04T16:28:38-08:00</published>
+    <updated>2021-01-04T16:28:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/atlas-1a"/>
+    <title>Atlas-1a</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ATLAS-1A_BLUSH.jpg?v=1609806407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers r<span data-mce-fragment="1">hinestone studded boots</span> with faux fur lining.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Mauve, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Suede </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / GREY</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13104DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / MAUVE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13129DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4903499530303</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>ATLAS-1A-01-13102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887521919039</id>
+    <published>2020-12-29T11:15:36-08:00</published>
+    <updated>2020-12-29T11:15:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cab-36a"/>
+    <title>Cab-36a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CAB-36A_BLUSH.jpg?v=1608238594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers slides with faux fur and rhinestones on upper. Elastic back strap.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Multi, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18127DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4883954761791</id>
+    <published>2020-12-29T11:15:16-08:00</published>
+    <updated>2020-12-29T11:15:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/ace-6a"/>
+    <title>Ace-6a</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ACE-6A_WINE.jpg?v=1608231574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddlers ballet flat with crossed elastic ankle straps. Back zipper close.</p>
+<p><strong>Colorways</strong>:</p>
+<p>💜 Black Nubuck, Tan Nubuck</p>
+<p><span data-mce-fragment="1">💜 </span>Wine Suede, Leopard Suede</p>
+<p><span data-mce-fragment="1">💜 </span>Champagne Glitter, Silver Glitter</p>
+<p><span data-mce-fragment="1">💜</span><span data-mce-fragment="1"> </span>White PU</p>
+<p><strong>Height: </strong>Flat<br></p>
+<p>If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>BLACK / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>CHAMPAGNE / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-14111DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>LEOPARD / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-13122DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>SILVER / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-14110DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>TAN / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>WHITE / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4883954761791</id>
+      <title>WINE / DD3</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>ACE-6A-05-13114DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4444904325183</id>
+    <published>2020-12-29T11:15:14-08:00</published>
+    <updated>2020-12-29T11:15:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bruce-1a"/>
+    <title>Bruce-1a</title>
+    <s:type>Flats</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRUCE-1A_CHAMPAGNE.jpg?v=1577823062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Flats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers ballet flat embellished with glitter and jewels. Velcro strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Champagne, Silver</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Glitter</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444904325183</id>
+      <title>DD3 / CHAMPAGNE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1A-05-14111DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444904325183</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1A-05-14100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444904325183</id>
+      <title>DD3 / SILVER</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>BRUCE-1A-05-14110DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4444884238399</id>
+    <published>2019-12-31T11:47:14-08:00</published>
+    <updated>2019-12-31T11:47:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-1a"/>
+    <title>Candide-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-1A_WHITE.jpg?v=1609812362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddlers open toe ankle strap platform sandal with espadrille trim.<span> Velcro</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span>💜 Leopard Suede</span></p>
+<p data-mce-fragment="1"><span>💜 White PU, Nude PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / LEOPARD</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-13122DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / NUDE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-11106DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

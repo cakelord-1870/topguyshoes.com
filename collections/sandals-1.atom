@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/sandals-1.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-03-01T12:31:00-08:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/6542672298047</id>
+    <published>2021-03-01T12:31:00-08:00</published>
+    <updated>2021-03-01T12:31:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/mars-1a"/>
+    <title>Mars-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/MARS-1A_WHITE.jpg?v=1614630662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Mocha</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Detail_Glitter</s:tag>
+    <s:tag>Detail_Velcro</s:tag>
+    <s:tag>Material_Glitter</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542672298047</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MARS-1A-04-11100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542672298047</id>
+      <title>DD3 / CHESTNUT</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MARS-1A-04-11131DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542672298047</id>
+      <title>DD3 / MOCHA</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MARS-1A-04-12135DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542672298047</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MARS-1A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542672298047</id>
+      <title>DD3 / WHITE GLITTER</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MARS-1A-04-14105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6542672298047</id>
+      <title>DD3 / ROSE GOLD GLITTER</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MARS-1A-04-14112DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6536107294783</id>
+    <published>2021-02-24T16:22:55-08:00</published>
+    <updated>2021-02-24T16:22:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/sterling-1a"/>
+    <title>Sterling-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/STERLING-1A_MULTI.jpg?v=1614212575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Lycra</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536107294783</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>STERLING-1A-04-24100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536107294783</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>STERLING-1A-04-24105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536107294783</id>
+      <title>DD3 / MULTI</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>STERLING-1A-04-24127DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6536107294783</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>STERLING-1A-04-24117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6535973503039</id>
+    <published>2021-02-24T12:30:43-08:00</published>
+    <updated>2021-02-24T12:30:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/rowen-1a"/>
+    <title>Rowen-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ROWEN-1A_RED.jpg?v=1617985064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535973503039</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ROWEN-1A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535973503039</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ROWEN-1A-04-12117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535973503039</id>
+      <title>DD3 / RED</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ROWEN-1A-04-11115DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535973503039</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ROWEN-1A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535973503039</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>ROWEN-1A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/6535957708863</id>
+    <published>2021-02-24T11:59:22-08:00</published>
+    <updated>2021-02-24T11:59:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/faron-58a"/>
+    <title>Faron-58a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/FARON-58A_BLACK.jpg?v=1614196762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers ankle strap sandals with rhinestones. Velcro<span data-mce-fragment="1"> </span>close.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black<span data-mce-fragment="1"> </span><span data-mce-fragment="1">Nubuck</span></p>
+<p data-mce-fragment="1"> <strong data-mce-fragment="1">Height:</strong><span data-mce-fragment="1"> Flat</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/6535957708863</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FARON-58A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4946984599615</id>
+    <published>2021-02-08T15:48:07-08:00</published>
+    <updated>2021-02-08T15:48:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/gem-1a"/>
+    <title>Gem-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/GEM-1AYELLOWMULTIcopy.jpg?v=1612828089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers tie-dye <span data-mce-fragment="1">slide sandals with rhinestone </span>detail.  Elastic back strap<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Rainbow Multi, Yellow Multi, Green Multi, Tie Dye</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Lycra</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height:</strong><span data-mce-fragment="1"> Flat</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Material_Lycra</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946984599615</id>
+      <title>DD3 / RAINBOW MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>GEM-1A-04-24159DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946984599615</id>
+      <title>DD3 / GREEN MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>GEM-1A-04-24161DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946984599615</id>
+      <title>DD3 / YELLOW MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>GEM-1A-04-24162DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4946984599615</id>
+      <title>DD3 / TIE DYE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>GEM-1A-04-24160DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4944027418687</id>
+    <published>2021-02-05T13:26:30-08:00</published>
+    <updated>2021-02-05T13:26:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/edie-71a"/>
+    <title>Edie-71a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/EDIE-71A_ROSEGOLD.jpg?v=1617985258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers crisscross elastic ankle strap sandal with rhinestone strap.</p>
+<p data-mce-fragment="1"> <strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Multi, White, Rose Gold</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Material:</strong> PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height:</strong><span data-mce-fragment="1"> Flat</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Detail_Velcro</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4944027418687</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>EDIE-71A-04-11100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4944027418687</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>EDIE-71A-04-11117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4944027418687</id>
+      <title>DD3 / MULTI</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>EDIE-71A-04-11127DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4944027418687</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>EDIE-71A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4944027418687</id>
+      <title>DD3 / ROSE GOLD</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>EDIE-71A-04-11112DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4940445843519</id>
+    <published>2021-02-02T16:58:05-08:00</published>
+    <updated>2021-02-02T16:58:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cyler-1a"/>
+    <title>Cyler-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CYLER-1A_BLUSH.jpg?v=1612313861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers elastic ankle strap platform sandal with espadrille trim..</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Leopard, Blush, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Elastic</p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_Elastic</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4940445843519</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CYLER-1A-04-26100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4940445843519</id>
+      <title>DD3 / LEOPARD</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CYLER-1A-04-26122DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4940445843519</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CYLER-1A-04-26117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4940445843519</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CYLER-1A-04-26105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4939173068863</id>
+    <published>2021-02-01T16:05:07-08:00</published>
+    <updated>2021-02-01T16:05:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-53a"/>
+    <title>Candide-53a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-53A-BLUSH.jpg?v=1612220000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddlers open toe ankle strap platform sandal with espadrille trim.<span> Velcro</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Mango, Blush, White, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:<span> </span></strong>PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939173068863</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>CANDIDE-53A-04-11100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939173068863</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>CANDIDE-53A-04-11117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939173068863</id>
+      <title>DD3 / MANGO</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>CANDIDE-53A-04-11134DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939173068863</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>CANDIDE-53A-04-11102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939173068863</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>CANDIDE-53A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4939127390271</id>
+    <published>2021-02-01T16:04:19-08:00</published>
+    <updated>2021-02-01T16:04:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-25a"/>
+    <title>Candide-25a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-25A_FUCHSIA.jpg?v=1612216325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddlers open toe ankle strap platform sandal with espadrille trim.<span> Velcro</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Fuchsia, Tan, Red, Mauve</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material: </strong>Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Mauve</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>Style_Espadrille</s:tag>
+    <s:tag>Style_Platform</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939127390271</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-25A-04-13100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939127390271</id>
+      <title>DD3 / FUCHSIA</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-25A-04-13156DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939127390271</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-25A-04-13102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939127390271</id>
+      <title>DD3 / RED</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-25A-04-13115DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939127390271</id>
+      <title>DD3 / MAUVE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-25A-04-13129DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4939110645823</id>
+    <published>2021-02-01T16:03:38-08:00</published>
+    <updated>2021-02-01T16:03:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cab-99a"/>
+    <title>Cab-99a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CAB-99AYELLOWMULTIcopy.jpg?v=1612214762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddler slides with upper faux fur. Elastic back strap.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Green Multi, Yellow Multi, Rainbow Multi, Tie Dye Multi</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939110645823</id>
+      <title>DD3 / RAINBOW MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-99A-04-18159DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939110645823</id>
+      <title>DD3 / TIE DYE MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-99A-04-18160DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939110645823</id>
+      <title>DD3 / GREEN MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-99A-04-18161DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4939110645823</id>
+      <title>DD3 / YELLOW MULTI</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>CAB-99A-04-18162DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4904460124223</id>
+    <published>2021-01-05T16:28:41-08:00</published>
+    <updated>2021-01-05T16:28:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-77a"/>
+    <title>Candide-77a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-77A_ROSEGOLD.jpg?v=1609892748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers open toe  crisscross ankle strap platform sandal with espadrille trim. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck, Blush Nubuck</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 White PU, Rose Gold PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Rose Gold</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-12117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / ROSE GOLD</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-11112DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904460124223</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CANDIDE-77A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887521919039</id>
+    <published>2020-12-29T11:15:36-08:00</published>
+    <updated>2020-12-29T11:15:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/cab-36a"/>
+    <title>Cab-36a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CAB-36A_BLUSH.jpg?v=1608238594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers slides with faux fur and rhinestones on upper. Elastic back strap.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Multi, White</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> Faux Fur</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Multi</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Fur</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Fur</s:tag>
+    <s:tag>Style_Slide</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / MULTI</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18127DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887521919039</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>CAB-36A-04-18105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4445096837183</id>
+    <published>2019-12-31T14:40:29-08:00</published>
+    <updated>2019-12-31T14:40:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/faron-4a"/>
+    <title>Faron-4a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/FARON-4A_BLACK.jpg?v=1619635785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Toddlers ankle strap sandals. Velcro close.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Blush, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1" mce-data-marked="1"> Nubuck</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 </span>White PU</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> Flat</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Style_Sandal</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4445096837183</id>
+      <title>DD3 / BLUSH</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>FARON-4A-04-12117DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4445096837183</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>FARON-4A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4445096837183</id>
+      <title>DD3 / TAN</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>FARON-4A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4445096837183</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>FARON-4A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4445088645183</id>
+    <published>2019-12-31T14:40:29-08:00</published>
+    <updated>2019-12-31T14:40:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/penn-1a"/>
+    <title>Penn-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/PENN-1A_ORANGE.jpg?v=1611603201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Detail_Velcro</s:tag>
+    <s:tag>Material_Textile</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4445088645183</id>
+      <title>DD3 / ORANGE TRIBAL</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PENN-1A-04-25150DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4445088645183</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PENN-1A-04-25105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4444884238399</id>
+    <published>2019-12-31T11:47:14-08:00</published>
+    <updated>2019-12-31T11:47:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/candide-1a"/>
+    <title>Candide-1a</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Mini Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CANDIDE-1A_WHITE.jpg?v=1609812362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mini Moda<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddlers open toe ankle strap platform sandal with espadrille trim.<span> Velcro</span> strap close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Nubuck, Tan Nubuck</p>
+<p data-mce-fragment="1"><span>💜 Leopard Suede</span></p>
+<p data-mce-fragment="1"><span>💜 White PU, Nude PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1"> 1 inch</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Platform height:</strong> 0.6 inches</span></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Material_Nubuck</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>DD3 / WHITE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-12100DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>DD3 / BLACK</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-11105DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / TAN</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-12102DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / LEOPARD</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-13122DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4444884238399</id>
+      <title>E / NUDE</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>CANDIDE-1A-04-11106DD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

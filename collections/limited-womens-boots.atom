@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topguyshoes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topguyshoes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topguyshoes.com/collections/limited-womens-boots.atom"/>
+  <title>Top Guy Shoes</title>
+  <updated>2021-04-14T09:40:25-07:00</updated>
+  <author>
+    <name>Top Guy Shoes</name>
+  </author>
+  <entry>
+    <id>https://topguyshoes.com/products/4887404675135</id>
+    <published>2021-04-14T09:40:25-07:00</published>
+    <updated>2021-04-14T09:40:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/bieber-1"/>
+    <title>Bieber-1</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BIEBER-1_BLACK.jpg?v=1609809285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            7.50 - 14.25
+            <a href="https://topguyshoes.com/products/bieber-1">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies slouchy high heel suede boots. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Taupe, Red, Leopard</p>
+<p data-mce-fragment="1"><strong>Material:</strong> Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>4.1 inches<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>BIEBER-1-01-13100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>A12 / LEOPARD</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>BIEBER-1-01-13122A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>A12 / RED</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>BIEBER-1-01-13115A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>A12 / TAUPE</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>BIEBER-1-01-13108A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>BIEBER-1-01-13100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>B12 / LEOPARD</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>BIEBER-1-01-13122B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>B12 / RED</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>BIEBER-1-01-13115B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887404675135</id>
+      <title>B12 / TAUPE</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>BIEBER-1-01-13108B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/1969094787135</id>
+    <published>2021-01-05T17:45:33-08:00</published>
+    <updated>2021-01-05T17:45:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/chapo-1"/>
+    <title>Chapo-1</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CHAPO-1_BLACK.jpg?v=1565895477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies high heel tall boot with accent buckle Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Brown, Taupe</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> PU, </span>Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>3.4 inches<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Detail_Elastic</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Knee High</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1969094787135</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-1-01-11100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1969094787135</id>
+      <title>A12 / BROWN</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-1-01-11101A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1969094787135</id>
+      <title>A12 / TAUPE</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-1-01-11108A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1969094787135</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-1-01-11100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1969094787135</id>
+      <title>B12 / BROWN</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-1-01-11101B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/1969094787135</id>
+      <title>B12 / TAUPE</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-1-01-11108B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4904505212991</id>
+    <published>2021-01-05T17:41:51-08:00</published>
+    <updated>2021-01-05T17:41:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/celine-1"/>
+    <title>Celine-1</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CELINE-1_TAN.jpg?v=1618617104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Ladies wedge tall boot. with elastic side panels and accent buckle. Side zipper close.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Tan</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Material:</strong> PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1">  2.2 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Buckle</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Knee High</s:tag>
+    <s:tag>Style_Wedge</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904505212991</id>
+      <title>L12 / TAN</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CELINE-1-01-11102L12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4904490041407</id>
+    <published>2021-01-05T17:33:26-08:00</published>
+    <updated>2021-01-05T17:33:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/chapo-6"/>
+    <title>Chapo-5</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/CHAPO-5_BLACK_db7fe2d0-acd9-4020-91e1-5c53c9db3c7e.jpg?v=1609896726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies <span data-mce-fragment="1">faux crocodile </span>high heel tall boot. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Brown</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:</strong><span data-mce-fragment="1"> PU, </span>Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:<span data-mce-fragment="1"> </span></strong>3.4 inches<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:tag>Style_Knee High</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904490041407</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-5-01-11100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904490041407</id>
+      <title>A12 / BROWN</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-5-01-11101A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904490041407</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-5-01-11100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4904490041407</id>
+      <title>B12 / BROWN</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>CHAPO-5-01-11101B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4887451500607</id>
+    <published>2020-12-29T11:15:32-08:00</published>
+    <updated>2020-12-29T11:15:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/brazil-72"/>
+    <title>Brazil-72</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/BRAZIL-72_BLACKCROCPAT.jpg?v=1608231798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies high heel pointed-toe tall boot. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Croc Patent</p>
+<p data-mce-fragment="1"><span>💜 Black PU, Ivory PU</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height:</strong><span data-mce-fragment="1">  3.4 inches</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Animal Print</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Crocodile</s:tag>
+    <s:tag>Color_Ivory</s:tag>
+    <s:tag>Color_Nude</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Height_High heel</s:tag>
+    <s:tag>Material_Patent</s:tag>
+    <s:tag>Material_PU</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-11100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>A12 / BLACK CROCODILE</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-15100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>A12 / IVORY</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-11109A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-11100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>B12 / BLACK CROCODILE</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-15100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>B12 / IVORY</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-11109B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>A12 / TAN</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-11102A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4887451500607</id>
+      <title>A12 / NUDE</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>BRAZIL-72-01-11106A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4886104834111</id>
+    <published>2020-12-29T11:15:22-08:00</published>
+    <updated>2020-12-29T11:15:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/atlas-1"/>
+    <title>Atlas-1</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ATLAS-1_TAN.jpg?v=1608155778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies r<span data-mce-fragment="1">hinestone studded boots</span><span data-mce-fragment="1"> </span>with faux fur lining.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black, Grey, Mauve, Tan</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Material:<span data-mce-fragment="1"> </span></strong>Suede </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Height: </strong>Flat<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Pink</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Detail_Jewel</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MY / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13100MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MY / GREY</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13104MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MY / MAUVE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13129MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MY / TAN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13102MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MJ / BLACK</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13100MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MJ / GREY</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13104MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MJ / MAUVE</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13129MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4886104834111</id>
+      <title>MJ / TAN</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>ATLAS-1-01-13102MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topguyshoes.com/products/4885817327679</id>
+    <published>2020-12-29T11:15:17-08:00</published>
+    <updated>2020-12-29T11:15:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://topguyshoes.com/products/alida-32"/>
+    <title>Alida-32</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Top Moda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1022/7673/products/ALIDA-32_BLACK.jpg?v=1616787989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Moda<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ladies over the knee suede boots. Side zipper close.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Colorways</strong>:</p>
+<p data-mce-fragment="1">💜 Black Suede, Wine <span data-mce-fragment="1">Suede</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">💜 Chestnut</span> Suede, Taupe Suede</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Heel Height: </strong>1 inch<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">If a colorway is not shown below, it is out of stock! Please reach out to your sales or info@topguyshoes.com for details on when this styles colorway will be available again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Tan</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Color_Wine</s:tag>
+    <s:tag>Height_Flat</s:tag>
+    <s:tag>Material_Suede</s:tag>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>A12 / BLACK</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13100A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>A12 / CHESTNUT</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13131A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>A12 / WINE</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13114A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>A12 / TAUPE</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13108A12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>B12 / BLACK</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13100B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>B12 / CHESTNUT</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13131B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>B12 / WINE</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13114B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>B12 / TAUPE</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13108B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>G12 / BLACK</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13100G12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>G12 / CHESTNUT</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13131G12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>G12 / WINE</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13114G12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topguyshoes.com/products/4885817327679</id>
+      <title>G12 / TAUPE</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>ALIDA-32-02-13108G12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
